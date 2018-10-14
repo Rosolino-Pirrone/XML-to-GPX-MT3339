@@ -1,0 +1,4476 @@
+<?xml version="1.0"?>
+<dataset2 xmlns="xsdbooks">
+  <Count Data="1">
+    <UTC>2018-09-27,13:44:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903427</Lat>
+    <Lon>13,427006</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="2">
+    <UTC>2018-09-27,13:44:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903423</Lat>
+    <Lon>13,426999</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="3">
+    <UTC>2018-09-27,13:44:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903423</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="4">
+    <UTC>2018-09-27,13:44:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903419</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="5">
+    <UTC>2018-09-27,13:44:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903412</Lat>
+    <Lon>13,42699</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="6">
+    <UTC>2018-09-27,13:44:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903366</Lat>
+    <Lon>13,427008</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="7">
+    <UTC>2018-09-27,13:44:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903316</Lat>
+    <Lon>13,427036</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="8">
+    <UTC>2018-09-27,13:44:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903255</Lat>
+    <Lon>13,427063</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="9">
+    <UTC>2018-09-27,13:45:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903187</Lat>
+    <Lon>13,427117</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="10">
+    <UTC>2018-09-27,13:45:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90321</Lat>
+    <Lon>13,427207</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="11">
+    <UTC>2018-09-27,13:45:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903286</Lat>
+    <Lon>13,427317</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="12">
+    <UTC>2018-09-27,13:45:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903362</Lat>
+    <Lon>13,427392</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="13">
+    <UTC>2018-09-27,13:45:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903439</Lat>
+    <Lon>13,427441</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="14">
+    <UTC>2018-09-27,13:45:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,427503</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="15">
+    <UTC>2018-09-27,13:45:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,427585</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="16">
+    <UTC>2018-09-27,13:45:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,427636</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="17">
+    <UTC>2018-09-27,13:45:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903599</Lat>
+    <Lon>13,427658</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="18">
+    <UTC>2018-09-27,13:45:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903671</Lat>
+    <Lon>13,427696</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="19">
+    <UTC>2018-09-27,13:45:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903728</Lat>
+    <Lon>13,42777</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="20">
+    <UTC>2018-09-27,13:45:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903793</Lat>
+    <Lon>13,427825</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="21">
+    <UTC>2018-09-27,13:46:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903866</Lat>
+    <Lon>13,42787</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="22">
+    <UTC>2018-09-27,13:46:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903954</Lat>
+    <Lon>13,427938</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="23">
+    <UTC>2018-09-27,13:46:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904022</Lat>
+    <Lon>13,427999</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="24">
+    <UTC>2018-09-27,13:46:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904064</Lat>
+    <Lon>13,428061</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="25">
+    <UTC>2018-09-27,13:46:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904064</Lat>
+    <Lon>13,428031</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="26">
+    <UTC>2018-09-27,13:46:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904049</Lat>
+    <Lon>13,428013</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="27">
+    <UTC>2018-09-27,13:46:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904018</Lat>
+    <Lon>13,427995</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="28">
+    <UTC>2018-09-27,13:46:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904003</Lat>
+    <Lon>13,427973</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="29">
+    <UTC>2018-09-27,13:46:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904022</Lat>
+    <Lon>13,427993</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="30">
+    <UTC>2018-09-27,13:46:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904026</Lat>
+    <Lon>13,427984</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="31">
+    <UTC>2018-09-27,13:46:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,904026</Lat>
+    <Lon>13,427963</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="32">
+    <UTC>2018-09-27,13:46:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903984</Lat>
+    <Lon>13,427941</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="33">
+    <UTC>2018-09-27,13:47:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903919</Lat>
+    <Lon>13,427906</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="34">
+    <UTC>2018-09-27,13:47:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903862</Lat>
+    <Lon>13,42785</Lon>
+    <HGT>694</HGT>
+  </Count>
+  <Count Data="35">
+    <UTC>2018-09-27,13:47:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903809</Lat>
+    <Lon>13,427788</Lon>
+    <HGT>694</HGT>
+  </Count>
+  <Count Data="36">
+    <UTC>2018-09-27,13:47:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903767</Lat>
+    <Lon>13,427758</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="37">
+    <UTC>2018-09-27,13:47:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903717</Lat>
+    <Lon>13,42771</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="38">
+    <UTC>2018-09-27,13:47:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903656</Lat>
+    <Lon>13,427664</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="39">
+    <UTC>2018-09-27,13:47:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903633</Lat>
+    <Lon>13,427637</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="40">
+    <UTC>2018-09-27,13:47:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903629</Lat>
+    <Lon>13,427651</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="41">
+    <UTC>2018-09-27,13:47:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903622</Lat>
+    <Lon>13,427665</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="42">
+    <UTC>2018-09-27,13:47:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427654</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="43">
+    <UTC>2018-09-27,13:47:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427618</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="44">
+    <UTC>2018-09-27,13:47:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,427552</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="45">
+    <UTC>2018-09-27,13:48:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,427502</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="46">
+    <UTC>2018-09-27,13:48:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903412</Lat>
+    <Lon>13,427462</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="47">
+    <UTC>2018-09-27,13:48:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90337</Lat>
+    <Lon>13,427416</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="48">
+    <UTC>2018-09-27,13:48:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903316</Lat>
+    <Lon>13,427371</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="49">
+    <UTC>2018-09-27,13:48:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903252</Lat>
+    <Lon>13,427333</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="50">
+    <UTC>2018-09-27,13:48:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903229</Lat>
+    <Lon>13,427275</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="51">
+    <UTC>2018-09-27,13:48:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903252</Lat>
+    <Lon>13,427207</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="52">
+    <UTC>2018-09-27,13:48:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903252</Lat>
+    <Lon>13,427147</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="53">
+    <UTC>2018-09-27,13:48:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903324</Lat>
+    <Lon>13,427072</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="54">
+    <UTC>2018-09-27,13:48:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903446</Lat>
+    <Lon>13,427054</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="55">
+    <UTC>2018-09-27,13:48:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427042</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="56">
+    <UTC>2018-09-27,13:48:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,427045</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="57">
+    <UTC>2018-09-27,13:49:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,427029</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="58">
+    <UTC>2018-09-27,13:49:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,427014</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="59">
+    <UTC>2018-09-27,13:49:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,427068</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="60">
+    <UTC>2018-09-27,13:49:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427103</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="61">
+    <UTC>2018-09-27,13:49:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903656</Lat>
+    <Lon>13,427265</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="62">
+    <UTC>2018-09-27,13:51:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,427105</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="63">
+    <UTC>2018-09-27,13:51:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,427146</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="64">
+    <UTC>2018-09-27,13:51:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427108</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="65">
+    <UTC>2018-09-27,13:51:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427026</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="66">
+    <UTC>2018-09-27,13:51:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426992</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="67">
+    <UTC>2018-09-27,13:51:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426955</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="68">
+    <UTC>2018-09-27,13:51:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="69">
+    <UTC>2018-09-27,13:51:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,426774</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="70">
+    <UTC>2018-09-27,13:51:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426852</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="71">
+    <UTC>2018-09-27,14:02:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,42704</Lon>
+    <HGT>689</HGT>
+  </Count>
+  <Count Data="72">
+    <UTC>2018-09-27,14:02:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,427074</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="73">
+    <UTC>2018-09-27,14:02:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427127</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="74">
+    <UTC>2018-09-27,14:02:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427143</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="75">
+    <UTC>2018-09-27,14:02:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903587</Lat>
+    <Lon>13,427138</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="76">
+    <UTC>2018-09-27,14:02:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,427115</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="77">
+    <UTC>2018-09-27,14:02:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427148</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="78">
+    <UTC>2018-09-27,14:03:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427158</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="79">
+    <UTC>2018-09-27,14:03:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427149</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="80">
+    <UTC>2018-09-27,14:03:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,42714</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="81">
+    <UTC>2018-09-27,14:03:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427134</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="82">
+    <UTC>2018-09-27,14:03:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903618</Lat>
+    <Lon>13,427126</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="83">
+    <UTC>2018-09-27,14:03:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427115</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="84">
+    <UTC>2018-09-27,14:03:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427104</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="85">
+    <UTC>2018-09-27,14:03:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427094</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="86">
+    <UTC>2018-09-27,14:03:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90361</Lat>
+    <Lon>13,427089</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="87">
+    <UTC>2018-09-27,14:03:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,427086</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="88">
+    <UTC>2018-09-27,14:03:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903599</Lat>
+    <Lon>13,427082</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="89">
+    <UTC>2018-09-27,14:03:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,427083</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="90">
+    <UTC>2018-09-27,14:04:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,427086</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="91">
+    <UTC>2018-09-27,14:04:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903587</Lat>
+    <Lon>13,427087</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="92">
+    <UTC>2018-09-27,14:04:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,427087</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="93">
+    <UTC>2018-09-27,14:04:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903599</Lat>
+    <Lon>13,427091</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="94">
+    <UTC>2018-09-27,14:04:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903606</Lat>
+    <Lon>13,427096</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="95">
+    <UTC>2018-09-27,14:04:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90361</Lat>
+    <Lon>13,427101</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="96">
+    <UTC>2018-09-27,14:04:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90361</Lat>
+    <Lon>13,427106</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="97">
+    <UTC>2018-09-27,14:04:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,427114</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="98">
+    <UTC>2018-09-27,14:04:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903622</Lat>
+    <Lon>13,427114</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="99">
+    <UTC>2018-09-27,14:04:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427112</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="100">
+    <UTC>2018-09-27,14:04:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427113</Lon>
+    <HGT>692</HGT>
+  </Count>
+  <Count Data="101">
+    <UTC>2018-09-27,14:04:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427112</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="102">
+    <UTC>2018-09-27,14:05:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903629</Lat>
+    <Lon>13,427114</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="103">
+    <UTC>2018-09-27,14:05:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427116</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="104">
+    <UTC>2018-09-27,14:05:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427118</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="105">
+    <UTC>2018-09-27,14:05:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427116</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="106">
+    <UTC>2018-09-27,14:05:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903618</Lat>
+    <Lon>13,42711</Lon>
+    <HGT>693</HGT>
+  </Count>
+  <Count Data="107">
+    <UTC>2018-09-27,14:05:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90361</Lat>
+    <Lon>13,427095</Lon>
+    <HGT>694</HGT>
+  </Count>
+  <Count Data="108">
+    <UTC>2018-09-27,14:05:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,427085</Lon>
+    <HGT>694</HGT>
+  </Count>
+  <Count Data="109">
+    <UTC>2018-09-27,14:05:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,427074</Lon>
+    <HGT>694</HGT>
+  </Count>
+  <Count Data="110">
+    <UTC>2018-09-27,14:05:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427044</Lon>
+    <HGT>695</HGT>
+  </Count>
+  <Count Data="111">
+    <UTC>2018-09-27,14:05:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427031</Lon>
+    <HGT>696</HGT>
+  </Count>
+  <Count Data="112">
+    <UTC>2018-09-27,14:05:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,427019</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="113">
+    <UTC>2018-09-27,14:05:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,42701</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="114">
+    <UTC>2018-09-27,14:06:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427004</Lon>
+    <HGT>697</HGT>
+  </Count>
+  <Count Data="115">
+    <UTC>2018-09-27,14:06:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426995</Lon>
+    <HGT>698</HGT>
+  </Count>
+  <Count Data="116">
+    <UTC>2018-09-27,14:06:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="117">
+    <UTC>2018-09-27,14:06:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426998</Lon>
+    <HGT>699</HGT>
+  </Count>
+  <Count Data="118">
+    <UTC>2018-09-27,14:06:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426996</Lon>
+    <HGT>700</HGT>
+  </Count>
+  <Count Data="119">
+    <UTC>2018-09-27,14:06:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>701</HGT>
+  </Count>
+  <Count Data="120">
+    <UTC>2018-09-27,14:06:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>701</HGT>
+  </Count>
+  <Count Data="121">
+    <UTC>2018-09-27,14:06:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427009</Lon>
+    <HGT>702</HGT>
+  </Count>
+  <Count Data="122">
+    <UTC>2018-09-27,14:06:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427011</Lon>
+    <HGT>702</HGT>
+  </Count>
+  <Count Data="123">
+    <UTC>2018-09-27,14:06:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427006</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="124">
+    <UTC>2018-09-27,14:06:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="125">
+    <UTC>2018-09-27,14:06:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,427005</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="126">
+    <UTC>2018-09-27,14:07:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,427004</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="127">
+    <UTC>2018-09-27,14:07:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,427001</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="128">
+    <UTC>2018-09-27,14:07:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,427002</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="129">
+    <UTC>2018-09-27,14:07:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,427</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="130">
+    <UTC>2018-09-27,14:07:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="131">
+    <UTC>2018-09-27,14:07:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,427005</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="132">
+    <UTC>2018-09-27,14:07:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,427008</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="133">
+    <UTC>2018-09-27,14:07:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427007</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="134">
+    <UTC>2018-09-27,14:07:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="135">
+    <UTC>2018-09-27,14:07:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426995</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="136">
+    <UTC>2018-09-27,14:07:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="137">
+    <UTC>2018-09-27,14:07:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,42698</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="138">
+    <UTC>2018-09-27,14:08:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="139">
+    <UTC>2018-09-27,14:08:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426965</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="140">
+    <UTC>2018-09-27,14:08:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426961</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="141">
+    <UTC>2018-09-27,14:08:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426961</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="142">
+    <UTC>2018-09-27,14:08:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,42696</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="143">
+    <UTC>2018-09-27,14:08:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426956</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="144">
+    <UTC>2018-09-27,14:08:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="145">
+    <UTC>2018-09-27,14:08:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903473</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="146">
+    <UTC>2018-09-27,14:08:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="147">
+    <UTC>2018-09-27,14:08:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="148">
+    <UTC>2018-09-27,14:08:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="149">
+    <UTC>2018-09-27,14:08:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,426946</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="150">
+    <UTC>2018-09-27,14:09:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426938</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="151">
+    <UTC>2018-09-27,14:09:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426931</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="152">
+    <UTC>2018-09-27,14:09:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903473</Lat>
+    <Lon>13,42692</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="153">
+    <UTC>2018-09-27,14:09:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="154">
+    <UTC>2018-09-27,14:09:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>703</HGT>
+  </Count>
+  <Count Data="155">
+    <UTC>2018-09-27,14:09:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="156">
+    <UTC>2018-09-27,14:09:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426917</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="157">
+    <UTC>2018-09-27,14:09:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426919</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="158">
+    <UTC>2018-09-27,14:09:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426918</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="159">
+    <UTC>2018-09-27,14:09:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426924</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="160">
+    <UTC>2018-09-27,14:09:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426925</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="161">
+    <UTC>2018-09-27,14:09:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426927</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="162">
+    <UTC>2018-09-27,14:10:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903446</Lat>
+    <Lon>13,426924</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="163">
+    <UTC>2018-09-27,14:10:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,42692</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="164">
+    <UTC>2018-09-27,14:10:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426916</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="165">
+    <UTC>2018-09-27,14:10:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426911</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="166">
+    <UTC>2018-09-27,14:10:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="167">
+    <UTC>2018-09-27,14:10:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426904</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="168">
+    <UTC>2018-09-27,14:10:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,4269</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="169">
+    <UTC>2018-09-27,14:10:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903431</Lat>
+    <Lon>13,426893</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="170">
+    <UTC>2018-09-27,14:10:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426889</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="171">
+    <UTC>2018-09-27,14:10:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903439</Lat>
+    <Lon>13,426887</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="172">
+    <UTC>2018-09-27,14:10:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426884</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="173">
+    <UTC>2018-09-27,14:10:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426878</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="174">
+    <UTC>2018-09-27,14:11:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426876</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="175">
+    <UTC>2018-09-27,14:11:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903446</Lat>
+    <Lon>13,426872</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="176">
+    <UTC>2018-09-27,14:11:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903446</Lat>
+    <Lon>13,426868</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="177">
+    <UTC>2018-09-27,14:11:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426862</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="178">
+    <UTC>2018-09-27,14:11:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426853</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="179">
+    <UTC>2018-09-27,14:11:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426849</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="180">
+    <UTC>2018-09-27,14:11:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903473</Lat>
+    <Lon>13,426848</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="181">
+    <UTC>2018-09-27,14:11:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426849</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="182">
+    <UTC>2018-09-27,14:11:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,426856</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="183">
+    <UTC>2018-09-27,14:11:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426879</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="184">
+    <UTC>2018-09-27,14:11:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426897</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="185">
+    <UTC>2018-09-27,14:11:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,42692</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="186">
+    <UTC>2018-09-27,14:12:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426927</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="187">
+    <UTC>2018-09-27,14:12:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426931</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="188">
+    <UTC>2018-09-27,14:12:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426936</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="189">
+    <UTC>2018-09-27,14:12:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426943</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="190">
+    <UTC>2018-09-27,14:12:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="191">
+    <UTC>2018-09-27,14:12:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426947</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="192">
+    <UTC>2018-09-27,14:12:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426967</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="193">
+    <UTC>2018-09-27,14:12:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426985</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="194">
+    <UTC>2018-09-27,14:12:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,427017</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="195">
+    <UTC>2018-09-27,14:12:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,427046</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="196">
+    <UTC>2018-09-27,14:12:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,42705</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="197">
+    <UTC>2018-09-27,14:12:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427039</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="198">
+    <UTC>2018-09-27,14:13:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,427031</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="199">
+    <UTC>2018-09-27,14:13:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427033</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="200">
+    <UTC>2018-09-27,14:13:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427031</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="201">
+    <UTC>2018-09-27,14:13:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,427027</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="202">
+    <UTC>2018-09-27,14:13:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427015</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="203">
+    <UTC>2018-09-27,14:13:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427013</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="204">
+    <UTC>2018-09-27,14:13:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427017</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="205">
+    <UTC>2018-09-27,14:13:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,427022</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="206">
+    <UTC>2018-09-27,14:13:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427049</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="207">
+    <UTC>2018-09-27,14:13:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427058</Lon>
+    <HGT>705</HGT>
+  </Count>
+  <Count Data="208">
+    <UTC>2018-09-27,14:13:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427041</Lon>
+    <HGT>706</HGT>
+  </Count>
+  <Count Data="209">
+    <UTC>2018-09-27,14:13:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427029</Lon>
+    <HGT>706</HGT>
+  </Count>
+  <Count Data="210">
+    <UTC>2018-09-27,14:14:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427027</Lon>
+    <HGT>706</HGT>
+  </Count>
+  <Count Data="211">
+    <UTC>2018-09-27,14:14:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,427025</Lon>
+    <HGT>706</HGT>
+  </Count>
+  <Count Data="212">
+    <UTC>2018-09-27,14:14:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427013</Lon>
+    <HGT>706</HGT>
+  </Count>
+  <Count Data="213">
+    <UTC>2018-09-27,14:14:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426994</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="214">
+    <UTC>2018-09-27,14:14:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="215">
+    <UTC>2018-09-27,14:14:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426981</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="216">
+    <UTC>2018-09-27,14:14:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426982</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="217">
+    <UTC>2018-09-27,14:14:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426987</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="218">
+    <UTC>2018-09-27,14:14:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426982</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="219">
+    <UTC>2018-09-27,14:14:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,427028</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="220">
+    <UTC>2018-09-27,14:14:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426999</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="221">
+    <UTC>2018-09-27,14:14:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426983</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="222">
+    <UTC>2018-09-27,14:15:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426988</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="223">
+    <UTC>2018-09-27,14:15:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903557</Lat>
+    <Lon>13,427001</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="224">
+    <UTC>2018-09-27,14:15:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427004</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="225">
+    <UTC>2018-09-27,14:15:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427003</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="226">
+    <UTC>2018-09-27,14:15:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903557</Lat>
+    <Lon>13,42699</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="227">
+    <UTC>2018-09-27,14:15:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903557</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="228">
+    <UTC>2018-09-27,14:15:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426997</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="229">
+    <UTC>2018-09-27,14:15:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427005</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="230">
+    <UTC>2018-09-27,14:15:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427005</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="231">
+    <UTC>2018-09-27,14:15:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426999</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="232">
+    <UTC>2018-09-27,14:15:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426987</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="233">
+    <UTC>2018-09-27,14:15:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426977</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="234">
+    <UTC>2018-09-27,14:16:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426978</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="235">
+    <UTC>2018-09-27,14:16:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="236">
+    <UTC>2018-09-27,14:16:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,426964</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="237">
+    <UTC>2018-09-27,14:16:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,426959</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="238">
+    <UTC>2018-09-27,14:16:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,426956</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="239">
+    <UTC>2018-09-27,14:16:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="240">
+    <UTC>2018-09-27,14:16:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903557</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="241">
+    <UTC>2018-09-27,14:16:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,426942</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="242">
+    <UTC>2018-09-27,14:16:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,426942</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="243">
+    <UTC>2018-09-27,14:16:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="244">
+    <UTC>2018-09-27,14:16:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="245">
+    <UTC>2018-09-27,14:16:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426944</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="246">
+    <UTC>2018-09-27,14:17:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426942</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="247">
+    <UTC>2018-09-27,14:17:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="248">
+    <UTC>2018-09-27,14:17:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426939</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="249">
+    <UTC>2018-09-27,14:17:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="250">
+    <UTC>2018-09-27,14:17:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426955</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="251">
+    <UTC>2018-09-27,14:17:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="252">
+    <UTC>2018-09-27,14:17:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="253">
+    <UTC>2018-09-27,14:17:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426933</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="254">
+    <UTC>2018-09-27,14:17:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="255">
+    <UTC>2018-09-27,14:17:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426933</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="256">
+    <UTC>2018-09-27,14:17:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426944</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="257">
+    <UTC>2018-09-27,14:17:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="258">
+    <UTC>2018-09-27,14:18:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426958</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="259">
+    <UTC>2018-09-27,14:18:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426958</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="260">
+    <UTC>2018-09-27,14:18:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426953</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="261">
+    <UTC>2018-09-27,14:18:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="262">
+    <UTC>2018-09-27,14:18:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="263">
+    <UTC>2018-09-27,14:18:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426939</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="264">
+    <UTC>2018-09-27,14:18:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="265">
+    <UTC>2018-09-27,14:18:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="266">
+    <UTC>2018-09-27,14:18:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="267">
+    <UTC>2018-09-27,14:18:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="268">
+    <UTC>2018-09-27,14:18:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426956</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="269">
+    <UTC>2018-09-27,14:18:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426955</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="270">
+    <UTC>2018-09-27,14:19:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426956</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="271">
+    <UTC>2018-09-27,14:19:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426958</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="272">
+    <UTC>2018-09-27,14:19:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426966</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="273">
+    <UTC>2018-09-27,14:19:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="274">
+    <UTC>2018-09-27,14:19:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426964</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="275">
+    <UTC>2018-09-27,14:19:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426967</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="276">
+    <UTC>2018-09-27,14:19:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426964</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="277">
+    <UTC>2018-09-27,14:19:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426963</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="278">
+    <UTC>2018-09-27,14:19:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,42698</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="279">
+    <UTC>2018-09-27,14:19:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426974</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="280">
+    <UTC>2018-09-27,14:19:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="281">
+    <UTC>2018-09-27,14:19:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="282">
+    <UTC>2018-09-27,14:20:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="283">
+    <UTC>2018-09-27,14:20:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,426972</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="284">
+    <UTC>2018-09-27,14:20:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,426967</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="285">
+    <UTC>2018-09-27,14:20:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,426971</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="286">
+    <UTC>2018-09-27,14:20:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,426977</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="287">
+    <UTC>2018-09-27,14:20:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,426971</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="288">
+    <UTC>2018-09-27,14:20:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903599</Lat>
+    <Lon>13,426969</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="289">
+    <UTC>2018-09-27,14:20:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426966</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="290">
+    <UTC>2018-09-27,14:20:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426961</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="291">
+    <UTC>2018-09-27,14:20:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426964</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="292">
+    <UTC>2018-09-27,14:20:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903618</Lat>
+    <Lon>13,426969</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="293">
+    <UTC>2018-09-27,14:20:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903622</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="294">
+    <UTC>2018-09-27,14:21:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="295">
+    <UTC>2018-09-27,14:21:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903629</Lat>
+    <Lon>13,426939</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="296">
+    <UTC>2018-09-27,14:21:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903629</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="297">
+    <UTC>2018-09-27,14:21:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903633</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="298">
+    <UTC>2018-09-27,14:21:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903633</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="299">
+    <UTC>2018-09-27,14:21:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903637</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="300">
+    <UTC>2018-09-27,14:21:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,426932</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="301">
+    <UTC>2018-09-27,14:21:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,426936</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="302">
+    <UTC>2018-09-27,14:21:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903614</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="303">
+    <UTC>2018-09-27,14:21:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903606</Lat>
+    <Lon>13,426938</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="304">
+    <UTC>2018-09-27,14:21:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426942</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="305">
+    <UTC>2018-09-27,14:21:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426936</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="306">
+    <UTC>2018-09-27,14:22:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,426947</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="307">
+    <UTC>2018-09-27,14:22:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,426962</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="308">
+    <UTC>2018-09-27,14:22:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903595</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="309">
+    <UTC>2018-09-27,14:22:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903591</Lat>
+    <Lon>13,426975</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="310">
+    <UTC>2018-09-27,14:22:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903584</Lat>
+    <Lon>13,426986</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="311">
+    <UTC>2018-09-27,14:22:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,426994</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="312">
+    <UTC>2018-09-27,14:22:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903557</Lat>
+    <Lon>13,426988</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="313">
+    <UTC>2018-09-27,14:22:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,42699</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="314">
+    <UTC>2018-09-27,14:22:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="315">
+    <UTC>2018-09-27,14:22:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426954</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="316">
+    <UTC>2018-09-27,14:22:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="317">
+    <UTC>2018-09-27,14:22:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="318">
+    <UTC>2018-09-27,14:23:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="319">
+    <UTC>2018-09-27,14:23:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="320">
+    <UTC>2018-09-27,14:23:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426931</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="321">
+    <UTC>2018-09-27,14:23:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,42693</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="322">
+    <UTC>2018-09-27,14:23:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426926</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="323">
+    <UTC>2018-09-27,14:23:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426928</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="324">
+    <UTC>2018-09-27,14:23:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426935</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="325">
+    <UTC>2018-09-27,14:23:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="326">
+    <UTC>2018-09-27,14:23:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426954</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="327">
+    <UTC>2018-09-27,14:23:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426946</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="328">
+    <UTC>2018-09-27,14:23:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="329">
+    <UTC>2018-09-27,14:23:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="330">
+    <UTC>2018-09-27,14:24:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903496</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="331">
+    <UTC>2018-09-27,14:24:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="332">
+    <UTC>2018-09-27,14:24:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="333">
+    <UTC>2018-09-27,14:24:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="334">
+    <UTC>2018-09-27,14:24:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903496</Lat>
+    <Lon>13,426952</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="335">
+    <UTC>2018-09-27,14:24:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426965</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="336">
+    <UTC>2018-09-27,14:24:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426985</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="337">
+    <UTC>2018-09-27,14:24:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426985</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="338">
+    <UTC>2018-09-27,14:24:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426985</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="339">
+    <UTC>2018-09-27,14:24:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426987</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="340">
+    <UTC>2018-09-27,14:24:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426984</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="341">
+    <UTC>2018-09-27,14:24:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426982</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="342">
+    <UTC>2018-09-27,14:25:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="343">
+    <UTC>2018-09-27,14:25:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426998</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="344">
+    <UTC>2018-09-27,14:25:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,42701</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="345">
+    <UTC>2018-09-27,14:25:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427015</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="346">
+    <UTC>2018-09-27,14:25:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427011</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="347">
+    <UTC>2018-09-27,14:25:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,427017</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="348">
+    <UTC>2018-09-27,14:25:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,427015</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="349">
+    <UTC>2018-09-27,14:25:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,427015</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="350">
+    <UTC>2018-09-27,14:25:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427012</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="351">
+    <UTC>2018-09-27,14:25:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="352">
+    <UTC>2018-09-27,14:25:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426994</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="353">
+    <UTC>2018-09-27,14:25:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="354">
+    <UTC>2018-09-27,14:26:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426983</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="355">
+    <UTC>2018-09-27,14:26:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426978</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="356">
+    <UTC>2018-09-27,14:26:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,426972</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="357">
+    <UTC>2018-09-27,14:26:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="358">
+    <UTC>2018-09-27,14:26:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,42696</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="359">
+    <UTC>2018-09-27,14:26:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="360">
+    <UTC>2018-09-27,14:26:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="361">
+    <UTC>2018-09-27,14:26:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="362">
+    <UTC>2018-09-27,14:26:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="363">
+    <UTC>2018-09-27,14:26:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="364">
+    <UTC>2018-09-27,14:26:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426933</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="365">
+    <UTC>2018-09-27,14:26:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426933</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="366">
+    <UTC>2018-09-27,14:27:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426927</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="367">
+    <UTC>2018-09-27,14:27:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426927</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="368">
+    <UTC>2018-09-27,14:27:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="369">
+    <UTC>2018-09-27,14:27:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426954</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="370">
+    <UTC>2018-09-27,14:27:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="371">
+    <UTC>2018-09-27,14:27:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426978</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="372">
+    <UTC>2018-09-27,14:27:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,426995</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="373">
+    <UTC>2018-09-27,14:27:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903564</Lat>
+    <Lon>13,427009</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="374">
+    <UTC>2018-09-27,14:27:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,427004</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="375">
+    <UTC>2018-09-27,14:27:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="376">
+    <UTC>2018-09-27,14:27:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,42699</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="377">
+    <UTC>2018-09-27,14:27:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426989</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="378">
+    <UTC>2018-09-27,14:28:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426989</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="379">
+    <UTC>2018-09-27,14:28:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426995</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="380">
+    <UTC>2018-09-27,14:28:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,427002</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="381">
+    <UTC>2018-09-27,14:28:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427002</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="382">
+    <UTC>2018-09-27,14:28:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426874</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="383">
+    <UTC>2018-09-27,14:28:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426928</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="384">
+    <UTC>2018-09-27,14:28:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426947</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="385">
+    <UTC>2018-09-27,14:28:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903473</Lat>
+    <Lon>13,426955</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="386">
+    <UTC>2018-09-27,14:28:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="387">
+    <UTC>2018-09-27,14:28:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="388">
+    <UTC>2018-09-27,14:28:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426962</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="389">
+    <UTC>2018-09-27,14:29:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903381</Lat>
+    <Lon>13,426809</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="390">
+    <UTC>2018-09-27,14:29:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>712</HGT>
+  </Count>
+  <Count Data="391">
+    <UTC>2018-09-27,14:29:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,42697</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="392">
+    <UTC>2018-09-27,14:29:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426983</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="393">
+    <UTC>2018-09-27,14:29:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426988</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="394">
+    <UTC>2018-09-27,14:29:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426976</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="395">
+    <UTC>2018-09-27,14:29:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426964</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="396">
+    <UTC>2018-09-27,14:29:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426954</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="397">
+    <UTC>2018-09-27,14:29:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,42694</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="398">
+    <UTC>2018-09-27,14:29:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="399">
+    <UTC>2018-09-27,14:29:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426946</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="400">
+    <UTC>2018-09-27,14:29:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426942</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="401">
+    <UTC>2018-09-27,14:30:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,42693</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="402">
+    <UTC>2018-09-27,14:30:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426921</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="403">
+    <UTC>2018-09-27,14:30:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426919</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="404">
+    <UTC>2018-09-27,14:30:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426915</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="405">
+    <UTC>2018-09-27,14:30:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903473</Lat>
+    <Lon>13,426924</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="406">
+    <UTC>2018-09-27,14:30:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="407">
+    <UTC>2018-09-27,14:30:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="408">
+    <UTC>2018-09-27,14:30:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426939</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="409">
+    <UTC>2018-09-27,14:30:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="410">
+    <UTC>2018-09-27,14:30:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="411">
+    <UTC>2018-09-27,14:30:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426954</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="412">
+    <UTC>2018-09-27,14:30:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426959</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="413">
+    <UTC>2018-09-27,14:31:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,426961</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="414">
+    <UTC>2018-09-27,14:31:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,426971</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="415">
+    <UTC>2018-09-27,14:31:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426978</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="416">
+    <UTC>2018-09-27,14:31:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426996</Lon>
+    <HGT>708</HGT>
+  </Count>
+  <Count Data="417">
+    <UTC>2018-09-27,14:31:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426999</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="418">
+    <UTC>2018-09-27,14:31:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,426988</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="419">
+    <UTC>2018-09-27,14:31:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426976</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="420">
+    <UTC>2018-09-27,14:31:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,426966</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="421">
+    <UTC>2018-09-27,14:31:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="422">
+    <UTC>2018-09-27,14:31:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426935</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="423">
+    <UTC>2018-09-27,14:31:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="424">
+    <UTC>2018-09-27,14:31:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,426936</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="425">
+    <UTC>2018-09-27,14:32:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,426936</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="426">
+    <UTC>2018-09-27,14:32:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,426933</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="427">
+    <UTC>2018-09-27,14:32:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="428">
+    <UTC>2018-09-27,14:32:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="429">
+    <UTC>2018-09-27,14:32:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426928</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="430">
+    <UTC>2018-09-27,14:32:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426928</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="431">
+    <UTC>2018-09-27,14:32:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="432">
+    <UTC>2018-09-27,14:32:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426931</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="433">
+    <UTC>2018-09-27,14:32:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426925</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="434">
+    <UTC>2018-09-27,14:32:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426929</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="435">
+    <UTC>2018-09-27,14:32:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="436">
+    <UTC>2018-09-27,14:32:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="437">
+    <UTC>2018-09-27,14:33:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="438">
+    <UTC>2018-09-27,14:33:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426941</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="439">
+    <UTC>2018-09-27,14:33:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,426937</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="440">
+    <UTC>2018-09-27,14:33:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903496</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="441">
+    <UTC>2018-09-27,14:33:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426931</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="442">
+    <UTC>2018-09-27,14:33:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426928</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="443">
+    <UTC>2018-09-27,14:33:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426925</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="444">
+    <UTC>2018-09-27,14:33:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426918</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="445">
+    <UTC>2018-09-27,14:33:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426912</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="446">
+    <UTC>2018-09-27,14:33:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426911</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="447">
+    <UTC>2018-09-27,14:33:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426904</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="448">
+    <UTC>2018-09-27,14:33:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,426903</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="449">
+    <UTC>2018-09-27,14:34:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426903</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="450">
+    <UTC>2018-09-27,14:34:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426898</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="451">
+    <UTC>2018-09-27,14:34:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,426895</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="452">
+    <UTC>2018-09-27,14:34:15</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,426895</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="453">
+    <UTC>2018-09-27,14:34:20</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426894</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="454">
+    <UTC>2018-09-27,14:34:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,426899</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="455">
+    <UTC>2018-09-27,14:34:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426894</Lon>
+    <HGT>707</HGT>
+  </Count>
+  <Count Data="456">
+    <UTC>2018-09-27,15:49:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903584</Lat>
+    <Lon>13,427133</Lon>
+    <HGT>681</HGT>
+  </Count>
+  <Count Data="457">
+    <UTC>2018-09-27,15:49:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427079</Lon>
+    <HGT>685</HGT>
+  </Count>
+  <Count Data="458">
+    <UTC>2018-09-27,15:49:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427076</Lon>
+    <HGT>687</HGT>
+  </Count>
+  <Count Data="459">
+    <UTC>2018-09-27,15:49:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903572</Lat>
+    <Lon>13,427091</Lon>
+    <HGT>691</HGT>
+  </Count>
+  <Count Data="460">
+    <UTC>2018-09-27,15:49:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903526</Lat>
+    <Lon>13,427136</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="461">
+    <UTC>2018-09-27,15:49:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427141</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="462">
+    <UTC>2018-09-27,15:49:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,427127</Lon>
+    <HGT>709</HGT>
+  </Count>
+  <Count Data="463">
+    <UTC>2018-09-27,15:50:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903515</Lat>
+    <Lon>13,42713</Lon>
+    <HGT>711</HGT>
+  </Count>
+  <Count Data="464">
+    <UTC>2018-09-27,15:50:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427128</Lon>
+    <HGT>712</HGT>
+  </Count>
+  <Count Data="465">
+    <UTC>2018-09-27,15:50:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,427127</Lon>
+    <HGT>712</HGT>
+  </Count>
+  <Count Data="466">
+    <UTC>2018-09-27,15:50:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,427126</Lon>
+    <HGT>713</HGT>
+  </Count>
+  <Count Data="467">
+    <UTC>2018-09-27,15:50:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,427126</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="468">
+    <UTC>2018-09-27,15:50:47</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,427166</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="469">
+    <UTC>2018-09-27,15:50:52</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,427238</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="470">
+    <UTC>2018-09-27,15:50:57</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903488</Lat>
+    <Lon>13,427267</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="471">
+    <UTC>2018-09-27,15:51:02</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,427227</Lon>
+    <HGT>719</HGT>
+  </Count>
+  <Count Data="472">
+    <UTC>2018-09-27,15:51:07</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,427287</Lon>
+    <HGT>715</HGT>
+  </Count>
+  <Count Data="473">
+    <UTC>2018-09-27,15:51:12</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,427249</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="474">
+    <UTC>2018-09-27,15:51:17</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,427194</Lon>
+    <HGT>719</HGT>
+  </Count>
+  <Count Data="475">
+    <UTC>2018-09-27,15:51:22</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,427192</Lon>
+    <HGT>719</HGT>
+  </Count>
+  <Count Data="476">
+    <UTC>2018-09-27,15:51:27</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903427</Lat>
+    <Lon>13,427067</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="477">
+    <UTC>2018-09-27,15:51:32</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903408</Lat>
+    <Lon>13,426974</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="478">
+    <UTC>2018-09-27,15:53:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903362</Lat>
+    <Lon>13,426535</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="479">
+    <UTC>2018-09-27,15:54:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903423</Lat>
+    <Lon>13,427318</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="480">
+    <UTC>2018-09-27,15:55:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903275</Lat>
+    <Lon>13,426806</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="481">
+    <UTC>2018-09-27,15:55:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903351</Lat>
+    <Lon>13,426943</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="482">
+    <UTC>2018-09-27,16:12:09</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426598</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="483">
+    <UTC>2018-09-27,16:12:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426593</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="484">
+    <UTC>2018-09-27,16:12:19</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426597</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="485">
+    <UTC>2018-09-27,16:12:24</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,4266</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="486">
+    <UTC>2018-09-27,16:12:29</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426594</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="487">
+    <UTC>2018-09-27,16:12:34</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903427</Lat>
+    <Lon>13,426588</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="488">
+    <UTC>2018-09-27,16:12:39</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903423</Lat>
+    <Lon>13,426599</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="489">
+    <UTC>2018-09-27,16:16:39</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903397</Lat>
+    <Lon>13,426844</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="490">
+    <UTC>2018-09-27,16:16:44</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903397</Lat>
+    <Lon>13,426854</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="491">
+    <UTC>2018-09-27,16:16:49</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903423</Lat>
+    <Lon>13,426922</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="492">
+    <UTC>2018-09-27,16:17:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903477</Lat>
+    <Lon>13,426976</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="493">
+    <UTC>2018-09-27,16:17:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,427005</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="494">
+    <UTC>2018-09-27,16:17:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426983</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="495">
+    <UTC>2018-09-27,16:17:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,426989</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="496">
+    <UTC>2018-09-27,16:17:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426992</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="497">
+    <UTC>2018-09-27,16:17:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426997</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="498">
+    <UTC>2018-09-27,16:17:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426982</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="499">
+    <UTC>2018-09-27,16:17:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,426948</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="500">
+    <UTC>2018-09-27,16:17:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426917</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="501">
+    <UTC>2018-09-27,16:17:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426902</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="502">
+    <UTC>2018-09-27,16:18:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426902</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="503">
+    <UTC>2018-09-27,16:18:08</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426888</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="504">
+    <UTC>2018-09-27,16:18:13</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426881</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="505">
+    <UTC>2018-09-27,16:18:18</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426885</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="506">
+    <UTC>2018-09-27,16:18:23</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,426892</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="507">
+    <UTC>2018-09-27,16:18:28</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,426904</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="508">
+    <UTC>2018-09-27,16:18:33</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426917</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="509">
+    <UTC>2018-09-27,16:18:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426972</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="510">
+    <UTC>2018-09-27,16:19:38</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903412</Lat>
+    <Lon>13,426762</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="511">
+    <UTC>2018-09-27,16:19:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903412</Lat>
+    <Lon>13,426718</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="512">
+    <UTC>2018-09-27,16:19:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426682</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="513">
+    <UTC>2018-09-27,16:19:53</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90337</Lat>
+    <Lon>13,426699</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="514">
+    <UTC>2018-09-27,16:19:58</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426741</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="515">
+    <UTC>2018-09-27,16:20:03</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903431</Lat>
+    <Lon>13,426774</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="516">
+    <UTC>2018-09-27,16:21:09</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903522</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="517">
+    <UTC>2018-09-27,16:21:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903599</Lat>
+    <Lon>13,426977</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="518">
+    <UTC>2018-09-27,16:21:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903633</Lat>
+    <Lon>13,427053</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="519">
+    <UTC>2018-09-27,16:21:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903648</Lat>
+    <Lon>13,427135</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="520">
+    <UTC>2018-09-27,16:21:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903549</Lat>
+    <Lon>13,42698</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="521">
+    <UTC>2018-09-27,16:21:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903534</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="522">
+    <UTC>2018-09-27,16:21:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903538</Lat>
+    <Lon>13,426979</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="523">
+    <UTC>2018-09-27,16:21:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,427001</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="524">
+    <UTC>2018-09-27,16:21:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903568</Lat>
+    <Lon>13,42703</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="525">
+    <UTC>2018-09-27,16:21:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427063</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="526">
+    <UTC>2018-09-27,16:22:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903603</Lat>
+    <Lon>13,427095</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="527">
+    <UTC>2018-09-27,16:22:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903637</Lat>
+    <Lon>13,427143</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="528">
+    <UTC>2018-09-27,16:22:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90366</Lat>
+    <Lon>13,427201</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="529">
+    <UTC>2018-09-27,16:24:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,426871</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="530">
+    <UTC>2018-09-27,16:24:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426805</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="531">
+    <UTC>2018-09-27,16:24:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426805</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="532">
+    <UTC>2018-09-27,16:24:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90337</Lat>
+    <Lon>13,426834</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="533">
+    <UTC>2018-09-27,16:25:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903381</Lat>
+    <Lon>13,426848</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="534">
+    <UTC>2018-09-27,16:25:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903381</Lat>
+    <Lon>13,426847</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="535">
+    <UTC>2018-09-27,16:25:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903381</Lat>
+    <Lon>13,42685</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="536">
+    <UTC>2018-09-27,16:25:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903385</Lat>
+    <Lon>13,426852</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="537">
+    <UTC>2018-09-27,16:25:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426846</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="538">
+    <UTC>2018-09-27,16:25:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903378</Lat>
+    <Lon>13,426824</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="539">
+    <UTC>2018-09-27,16:25:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903332</Lat>
+    <Lon>13,426826</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="540">
+    <UTC>2018-09-27,16:28:44</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,427287</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="541">
+    <UTC>2018-09-27,16:28:49</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427118</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="542">
+    <UTC>2018-09-27,16:28:54</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,427016</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="543">
+    <UTC>2018-09-27,16:28:59</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903576</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>722</HGT>
+  </Count>
+  <Count Data="544">
+    <UTC>2018-09-27,16:29:04</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,426888</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="545">
+    <UTC>2018-09-27,16:29:09</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903442</Lat>
+    <Lon>13,426795</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="546">
+    <UTC>2018-09-27,16:29:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903347</Lat>
+    <Lon>13,42673</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="547">
+    <UTC>2018-09-27,16:33:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,425854</Lon>
+    <HGT>721</HGT>
+  </Count>
+  <Count Data="548">
+    <UTC>2018-09-27,16:33:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,426175</Lon>
+    <HGT>719</HGT>
+  </Count>
+  <Count Data="549">
+    <UTC>2018-09-27,16:33:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,42646</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="550">
+    <UTC>2018-09-27,16:33:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903408</Lat>
+    <Lon>13,42654</Lon>
+    <HGT>716</HGT>
+  </Count>
+  <Count Data="551">
+    <UTC>2018-09-27,16:33:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426629</Lon>
+    <HGT>716</HGT>
+  </Count>
+  <Count Data="552">
+    <UTC>2018-09-27,16:33:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,42673</Lon>
+    <HGT>716</HGT>
+  </Count>
+  <Count Data="553">
+    <UTC>2018-09-27,16:33:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426798</Lon>
+    <HGT>716</HGT>
+  </Count>
+  <Count Data="554">
+    <UTC>2018-09-27,16:33:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903397</Lat>
+    <Lon>13,42686</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="555">
+    <UTC>2018-09-27,16:33:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426946</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="556">
+    <UTC>2018-09-27,16:33:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903416</Lat>
+    <Lon>13,427037</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="557">
+    <UTC>2018-09-27,16:33:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,427107</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="558">
+    <UTC>2018-09-27,16:33:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903461</Lat>
+    <Lon>13,427131</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="559">
+    <UTC>2018-09-27,16:34:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,427144</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="560">
+    <UTC>2018-09-27,16:34:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,427178</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="561">
+    <UTC>2018-09-27,16:34:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903503</Lat>
+    <Lon>13,427162</Lon>
+    <HGT>718</HGT>
+  </Count>
+  <Count Data="562">
+    <UTC>2018-09-27,16:34:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903492</Lat>
+    <Lon>13,427135</Lon>
+    <HGT>718</HGT>
+  </Count>
+  <Count Data="563">
+    <UTC>2018-09-27,16:34:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903484</Lat>
+    <Lon>13,427098</Lon>
+    <HGT>718</HGT>
+  </Count>
+  <Count Data="564">
+    <UTC>2018-09-27,16:34:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903481</Lat>
+    <Lon>13,427092</Lon>
+    <HGT>718</HGT>
+  </Count>
+  <Count Data="565">
+    <UTC>2018-09-27,16:34:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903419</Lat>
+    <Lon>13,427016</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="566">
+    <UTC>2018-09-27,16:34:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426945</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="567">
+    <UTC>2018-09-27,16:34:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903385</Lat>
+    <Lon>13,426965</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="568">
+    <UTC>2018-09-27,16:34:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903397</Lat>
+    <Lon>13,426983</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="569">
+    <UTC>2018-09-27,16:34:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903381</Lat>
+    <Lon>13,426992</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="570">
+    <UTC>2018-09-27,16:34:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903358</Lat>
+    <Lon>13,426991</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="571">
+    <UTC>2018-09-27,16:35:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903332</Lat>
+    <Lon>13,427051</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="572">
+    <UTC>2018-09-27,16:35:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903336</Lat>
+    <Lon>13,427049</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="573">
+    <UTC>2018-09-27,16:35:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903347</Lat>
+    <Lon>13,427025</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="574">
+    <UTC>2018-09-27,16:35:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903374</Lat>
+    <Lon>13,427007</Lon>
+    <HGT>717</HGT>
+  </Count>
+  <Count Data="575">
+    <UTC>2018-09-29,22:18:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,427774</Lon>
+    <HGT>716</HGT>
+  </Count>
+  <Count Data="576">
+    <UTC>2018-09-29,22:18:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427807</Lon>
+    <HGT>715</HGT>
+  </Count>
+  <Count Data="577">
+    <UTC>2018-09-29,22:18:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427814</Lon>
+    <HGT>713</HGT>
+  </Count>
+  <Count Data="578">
+    <UTC>2018-09-29,22:54:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903374</Lat>
+    <Lon>13,426908</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="579">
+    <UTC>2018-09-29,22:54:19</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426887</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="580">
+    <UTC>2018-09-29,22:54:24</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426882</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="581">
+    <UTC>2018-09-29,22:54:29</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903412</Lat>
+    <Lon>13,426872</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="582">
+    <UTC>2018-09-29,22:54:34</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903416</Lat>
+    <Lon>13,426857</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="583">
+    <UTC>2018-09-29,22:54:39</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426882</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="584">
+    <UTC>2018-09-29,22:54:44</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426911</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="585">
+    <UTC>2018-09-29,22:54:49</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426932</Lon>
+    <HGT>733</HGT>
+  </Count>
+  <Count Data="586">
+    <UTC>2018-09-29,22:54:54</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903378</Lat>
+    <Lon>13,42695</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="587">
+    <UTC>2018-09-29,22:54:59</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,426935</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="588">
+    <UTC>2018-09-29,22:55:04</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426935</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="589">
+    <UTC>2018-09-29,22:55:09</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903397</Lat>
+    <Lon>13,426951</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="590">
+    <UTC>2018-09-29,22:55:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426967</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="591">
+    <UTC>2018-09-29,22:55:19</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426979</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="592">
+    <UTC>2018-09-29,22:55:24</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426992</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="593">
+    <UTC>2018-09-29,22:55:29</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903385</Lat>
+    <Lon>13,427004</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="594">
+    <UTC>2018-09-29,22:58:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426472</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="595">
+    <UTC>2018-09-29,22:58:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903519</Lat>
+    <Lon>13,42653</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="596">
+    <UTC>2018-09-29,22:58:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903507</Lat>
+    <Lon>13,426553</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="597">
+    <UTC>2018-09-29,22:59:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903618</Lat>
+    <Lon>13,426957</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="598">
+    <UTC>2018-09-29,23:01:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90353</Lat>
+    <Lon>13,42681</Lon>
+    <HGT>732</HGT>
+  </Count>
+  <Count Data="599">
+    <UTC>2018-09-29,23:01:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903545</Lat>
+    <Lon>13,426749</Lon>
+    <HGT>731</HGT>
+  </Count>
+  <Count Data="600">
+    <UTC>2018-09-29,23:01:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903561</Lat>
+    <Lon>13,426822</Lon>
+    <HGT>731</HGT>
+  </Count>
+  <Count Data="601">
+    <UTC>2018-09-29,23:02:43</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903542</Lat>
+    <Lon>13,426751</Lon>
+    <HGT>731</HGT>
+  </Count>
+  <Count Data="602">
+    <UTC>2018-09-29,23:02:48</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9035</Lat>
+    <Lon>13,426949</Lon>
+    <HGT>731</HGT>
+  </Count>
+  <Count Data="603">
+    <UTC>2018-09-29,23:07:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,42688</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="604">
+    <UTC>2018-09-29,23:07:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903454</Lat>
+    <Lon>13,426889</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="605">
+    <UTC>2018-09-29,23:07:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903458</Lat>
+    <Lon>13,42691</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="606">
+    <UTC>2018-09-29,23:08:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903465</Lat>
+    <Lon>13,426934</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="607">
+    <UTC>2018-09-29,23:08:06</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903469</Lat>
+    <Lon>13,42696</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="608">
+    <UTC>2018-09-29,23:08:11</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426968</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="609">
+    <UTC>2018-09-29,23:08:16</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,426981</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="610">
+    <UTC>2018-09-29,23:08:21</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90345</Lat>
+    <Lon>13,42699</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="611">
+    <UTC>2018-09-29,23:08:26</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,427006</Lon>
+    <HGT>730</HGT>
+  </Count>
+  <Count Data="612">
+    <UTC>2018-09-29,23:08:31</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903408</Lat>
+    <Lon>13,427013</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="613">
+    <UTC>2018-09-29,23:08:36</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,427043</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="614">
+    <UTC>2018-09-29,23:08:41</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903378</Lat>
+    <Lon>13,427061</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="615">
+    <UTC>2018-09-29,23:08:46</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903358</Lat>
+    <Lon>13,427091</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="616">
+    <UTC>2018-09-29,23:08:51</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903351</Lat>
+    <Lon>13,427178</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="617">
+    <UTC>2018-09-29,23:08:56</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903336</Lat>
+    <Lon>13,427238</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="618">
+    <UTC>2018-09-29,23:09:01</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903282</Lat>
+    <Lon>13,427362</Lon>
+    <HGT>729</HGT>
+  </Count>
+  <Count Data="619">
+    <UTC>2018-09-29,23:21:59</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903362</Lat>
+    <Lon>13,427376</Lon>
+    <HGT>639</HGT>
+  </Count>
+  <Count Data="620">
+    <UTC>2018-09-29,23:22:04</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903385</Lat>
+    <Lon>13,427345</Lon>
+    <HGT>637</HGT>
+  </Count>
+  <Count Data="621">
+    <UTC>2018-09-29,23:22:09</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903389</Lat>
+    <Lon>13,427312</Lon>
+    <HGT>633</HGT>
+  </Count>
+  <Count Data="622">
+    <UTC>2018-09-29,23:22:14</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903435</Lat>
+    <Lon>13,427309</Lon>
+    <HGT>634</HGT>
+  </Count>
+  <Count Data="623">
+    <UTC>2018-09-29,23:22:19</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427327</Lon>
+    <HGT>637</HGT>
+  </Count>
+  <Count Data="624">
+    <UTC>2018-09-29,23:22:24</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903553</Lat>
+    <Lon>13,427322</Lon>
+    <HGT>638</HGT>
+  </Count>
+  <Count Data="625">
+    <UTC>2018-09-29,23:22:29</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427323</Lon>
+    <HGT>639</HGT>
+  </Count>
+  <Count Data="626">
+    <UTC>2018-09-29,23:22:34</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903606</Lat>
+    <Lon>13,427331</Lon>
+    <HGT>641</HGT>
+  </Count>
+  <Count Data="627">
+    <UTC>2018-09-29,23:22:39</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903625</Lat>
+    <Lon>13,427325</Lon>
+    <HGT>642</HGT>
+  </Count>
+  <Count Data="628">
+    <UTC>2018-09-29,23:22:44</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,90358</Lat>
+    <Lon>13,427335</Lon>
+    <HGT>642</HGT>
+  </Count>
+  <Count Data="629">
+    <UTC>2018-09-29,23:22:49</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903511</Lat>
+    <Lon>13,427343</Lon>
+    <HGT>642</HGT>
+  </Count>
+  <Count Data="630">
+    <UTC>2018-09-29,23:25:25</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903313</Lat>
+    <Lon>13,427294</Lon>
+    <HGT>642</HGT>
+  </Count>
+  <Count Data="631">
+    <UTC>2018-09-29,23:25:30</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426809</Lon>
+    <HGT>704</HGT>
+  </Count>
+  <Count Data="632">
+    <UTC>2018-09-29,23:25:35</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903419</Lat>
+    <Lon>13,426842</Lon>
+    <HGT>710</HGT>
+  </Count>
+  <Count Data="633">
+    <UTC>2018-09-29,23:25:40</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903416</Lat>
+    <Lon>13,426852</Lon>
+    <HGT>711</HGT>
+  </Count>
+  <Count Data="634">
+    <UTC>2018-09-29,23:25:45</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903408</Lat>
+    <Lon>13,426852</Lon>
+    <HGT>711</HGT>
+  </Count>
+  <Count Data="635">
+    <UTC>2018-09-29,23:25:50</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,9034</Lat>
+    <Lon>13,426858</Lon>
+    <HGT>711</HGT>
+  </Count>
+  <Count Data="636">
+    <UTC>2018-09-29,23:25:55</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903393</Lat>
+    <Lon>13,426887</Lon>
+    <HGT>714</HGT>
+  </Count>
+  <Count Data="637">
+    <UTC>2018-09-29,23:26:00</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903385</Lat>
+    <Lon>13,426889</Lon>
+    <HGT>715</HGT>
+  </Count>
+  <Count Data="638">
+    <UTC>2018-09-29,23:26:05</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903378</Lat>
+    <Lon>13,426892</Lon>
+    <HGT>715</HGT>
+  </Count>
+  <Count Data="639">
+    <UTC>2018-09-29,23:26:10</UTC>
+    <FixType>3D-fix</FixType>
+    <Lat>37,903378</Lat>
+    <Lon>13,426887</Lon>
+    <HGT>715</HGT>
+  </Count>
+</dataset2>
