@@ -1,0 +1,10 @@
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MT3339 XML to GPX.exe.config
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MT3339 XML to GPX.exe
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MT3339 XML to GPX.pdb
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MT3339 XML to GPX.exe
+C:\Users\rosol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MT3339 XML to GPX.pdb
